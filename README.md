@@ -1,9 +1,9 @@
 # 🏙️ Urban Growth Visualization – Interactive 3D City Expansion Maps  
 
 [![Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-red?style=flat-square&logo=streamlit)](https://streamlit.io/)  
-📍 **Visualize how cities have grown over time using 3D maps, building data, and time-based animations.**  
+**Visualize how cities have grown over time using 3D maps, building data, and time-based animations.**  
 
-🔗 **Live Demo:** [Urban Growth Visualization App](https://citychrono-myxaamof8wk29nqzwxkm45.streamlit.app/)
+**Website Link:** [Urban Growth Visualization App](https://citychrono-myxaamof8wk29nqzwxkm45.streamlit.app/)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📥 Installation & Setup  
+## Installation & Setup  
 ### **Clone the repository**  
 ```sh
 git clone https://github.com/LouisHart1808/citychrono.git
