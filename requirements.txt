@@ -1,0 +1,7 @@
+streamlit
+pydeck
+geopandas
+osmnx
+numpy
+pandas
+pyrosm
