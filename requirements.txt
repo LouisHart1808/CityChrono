@@ -1,10 +1,5 @@
 streamlit
 pydeck
 geopandas
-osmnx
 numpy
 pandas
-pyrosm
-os
-time
-pyrosm
