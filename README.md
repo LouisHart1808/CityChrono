@@ -1,4 +1,4 @@
-# 🏙️ Urban Growth Visualisation – Interactive 3D City Expansion Maps  
+# Urban Growth Visualisation – Interactive 3D City Expansion Maps  
 
 [![Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-red?style=flat-square&logo=streamlit)](https://streamlit.io/)  
 **Visualise how cities have grown over time using 3D maps, building data, and time-based animations.**  
@@ -43,7 +43,7 @@ The app will open in your browser at `http://localhost:8501`.
 ---
 
 ## Cities Available  
-🏙️ **Current Cities Supported:**  
+**Current Cities Supported:**  
 1. **Singapore**
 2. **New York City**
 3. **Paris**
@@ -77,9 +77,9 @@ Contributions are welcome! If you want to add new cities or improve the visualiz
 ---
 
 ## Author  
-Developed by **Louis Hart** 🚀  
-💼 GitHub: [LouisHart1808](https://github.com/LouisHart1808)  
-📧 Email: louislsl02@gmail.com
+Developed by **Louis Hart** 
+GitHub: [LouisHart1808](https://github.com/LouisHart1808)  
+Email: louislsl02@gmail.com
 
 ---
 
